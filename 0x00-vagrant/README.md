@@ -14,11 +14,6 @@ with 100% of tasks.
 
 #### In a nutshell…
 
--   **Auto QA review:** 5.0/10 mandatory
--   **Altogether:**  **50.0%**
-    -   Mandatory: 50.0%
-    -   Optional: no optional tasks
-
 Concepts
 --------
 
