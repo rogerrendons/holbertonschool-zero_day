@@ -7,10 +7,10 @@
   </p>
 </h1>
 
-<p align="center"><img src="https://emojis.slackmojis.com/emojis/images/1492979700/2117/vagrant.png?1492979700" width="200">
-  <img src="https://emojis.slackmojis.com/emojis/images/1580783631/7685/git.png?1580783631" width="200">
-  <img src="https://emojis.slackmojis.com/emojis/images/1476969086/1264/vim.png?1476969086" width="200">
-  <img src="https://emojis.slackmojis.com/emojis/images/1496435379/2368/emacs.png?1496435379" width="200">
+<p align="center"><img src="https://emojis.slackmojis.com/emojis/images/1492979700/2117/vagrant.png?1492979700" width="100">
+  <img src="https://emojis.slackmojis.com/emojis/images/1580783631/7685/git.png?1580783631" width="100">
+  <img src="https://emojis.slackmojis.com/emojis/images/1476969086/1264/vim.png?1476969086" width="100">
+  <img src="https://emojis.slackmojis.com/emojis/images/1496435379/2368/emacs.png?1496435379" width="100">
 </p>
 
 holbertonschool-zero_day
